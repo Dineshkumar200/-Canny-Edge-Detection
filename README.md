@@ -22,4 +22,6 @@ plt.show()
 ```
 
 ## Output:
+![s7](https://user-images.githubusercontent.com/75235789/175783917-7c243256-c528-4703-bb45-aa4e6a4878b8.jpg)
+![s8](https://user-images.githubusercontent.com/75235789/175783920-623618ed-593a-4224-91bd-7adba21b57c1.jpg)
 
